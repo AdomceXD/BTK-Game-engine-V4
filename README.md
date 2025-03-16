@@ -1,6 +1,8 @@
 # BTK-Game-engine-V4
 Version 4 of Bebutex Game engine for Command Line games built ontop of V3.
 
+**ENGINE ONLY CURRENTLY WORKS ON LINUX. WINDOWS SUPPORT IS NOT PLANNED**
+
 # Installation
 ```
 git clone https://github.com/AdomceXD/BTK-Game-engine-V4
