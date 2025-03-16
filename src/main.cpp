@@ -4,7 +4,7 @@
 
 int main(){
     system("clear");
-    printf("Enter 'help' command for a list of commands...\n");
+    std::cout << "Enter '" << BTKTextColor(2) << "Help" << BTKTextColor(0) << "' to get a list of commands...\n";
     Engine engine;
     engine.waitForInput();
     return 0;
