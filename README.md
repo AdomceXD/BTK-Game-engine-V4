@@ -8,7 +8,7 @@ git clone https://github.com/AdomceXD/BTK-Game-engine-V4
 
 # Dependancies
 
-BTK Engine V4 uses btkutils library. Download [Here]([https://pages.github.com/](https://github.com/AdomceXD/btkutil)).
+BTK Engine V4 uses btkutils library. *[Download Here](https://github.com/AdomceXD/btkutil)*
 
 
 # Compile and Run
